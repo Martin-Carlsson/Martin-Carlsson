@@ -2,7 +2,17 @@
 
 > **Corporate data management specialist 🔥**
 
-## About
+## Projects
+www.gratisdata.dk
+
+## Favorite stacks and skill levels (out of 5 🔥)
+ - Dagster 🔥🔥
+ - Airbyte 🔥🔥🔥
+ - Fivetran 🔥🔥🔥🔥🔥
+ - dbt 🔥🔥🔥🔥🔥
+ - Snowflake 🔥🔥🔥🔥🔥
+
+## Vision
 I **believe** in human creativity; I believe that joy, self-actualization, and excitement are amongst the most essential elements of the human experience.
 
 I believe that the normal human state is creativity; I don't think you can make a person creative, but you can definitly stop a person from being creative.
