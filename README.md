@@ -9,6 +9,7 @@ www.gratisdata.dk
  - GitHub Codespaces 🔥🔥🔥🔥
  - GitHub Actions 🔥🔥🔥
  - Dagster 🔥🔥
+ - Python 🔥🔥
  - Airbyte 🔥🔥🔥
  - Fivetran 🔥🔥🔥🔥🔥
  - dbt 🔥🔥🔥🔥🔥
