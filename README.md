@@ -9,7 +9,7 @@ www.gratisdata.dk
  - GitHub Codespaces 🔥🔥🔥🔥
  - GitHub Actions 🔥🔥🔥
  - Dagster 🔥🔥
- - Python 🔥🔥
+ - Python 🔥🔥🔥
  - Airbyte 🔥🔥🔥
  - Fivetran 🔥🔥🔥🔥🔥
  - dbt 🔥🔥🔥🔥🔥
@@ -18,9 +18,9 @@ www.gratisdata.dk
 ## Vision
 I **believe** in human creativity; I believe that joy, self-actualization, and excitement are amongst the most essential elements of the human experience.
 
-I believe that the normal human state is creativity; I don't think you can make a person creative, but you can definitly stop a person from being creative.
+I believe that the normal human state is creativity; I don't think you can make a person creative, but you can definitely stop a person from being creative.
 
-Personally, I find joy, excitement, and creativity in my work by removing creativity stumblingblocks for other people.
+Personally, I find joy, excitement, and creativity in my work by removing creativity stumbling blocks for other people.
 
 In a corporate setting or in a start-up, access to reliable, clean data is time-consuming, manual labor-intensive, and terribly frustrating.
 
