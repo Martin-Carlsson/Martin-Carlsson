@@ -1,6 +1,6 @@
 # Martin Carlsson
 
-> **Corporate data management specialist 🔥**
+> **Data management specialist 🔥**
 
 ## Projects
 www.gratisdata.dk
