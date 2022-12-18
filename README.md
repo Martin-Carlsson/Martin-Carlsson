@@ -6,9 +6,9 @@
 www.gratisdata.dk
 
 ## Favorite stacks and skill levels (out of 5 🔥)
- - GitHub Codespaces 🔥🔥🔥🔥
  - GitHub Actions 🔥🔥🔥
  - Dagster 🔥🔥
+ - Svelte 🔥🔥
  - Python 🔥🔥🔥
  - Airbyte 🔥🔥🔥
  - Fivetran 🔥🔥🔥🔥🔥
