@@ -4,7 +4,7 @@
 
 ## Blog
 
-[DataMaverick.co](datamaverick.co)
+[DataMaverick.co](https://datamaverick.co)
 
 ## Projects
 www.gratisdata.dk
