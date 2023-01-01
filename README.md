@@ -2,6 +2,10 @@
 
 > **Data management specialist 🔥**
 
+## Blog
+
+[DataMaverick.co](datamaverick.co)
+
 ## Projects
 www.gratisdata.dk
 
