@@ -10,7 +10,7 @@
 www.gratisdata.dk
 
 ## Favorite stacks and skill levels (out of 5 🔥)
- - GitHub Actions 🔥🔥🔥
+ - GitHub Actions 🔥🔥🔥🔥
  - Dagster 🔥🔥
  - Svelte 🔥🔥
  - Python 🔥🔥🔥
