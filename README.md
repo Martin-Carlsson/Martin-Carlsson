@@ -10,7 +10,7 @@
 
 www.gratisdata.dk
 
-[github.com/TheDataMaverick/TheStandardModel-Experimenta](https://github.com/TheDataMaverick/TheStandardModel-Experimental)
+[github.com/TheDataMaverick/TheStandardModel-Experimental](https://github.com/TheDataMaverick/TheStandardModel-Experimental)
 
 ## Favorite stacks and skill levels (out of 5 🔥)
  - GitHub Actions 🔥🔥🔥🔥
