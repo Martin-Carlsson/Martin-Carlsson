@@ -5,12 +5,11 @@
 ## Projects
 
 - [starlightinsights.com](https://starlightinsights.com/)
-- [gratisdata.dk](https://gratisdata.dk/)
 
 ## Favorite stacks and skill levels (out of 5 🔥)
- - GitHub Actions 🔥🔥🔥🔥
+ - GitHub Actions 🔥🔥🔥🔥🔥
  - Svelte 🔥🔥
- - React/Next 🔥🔥
+ - React/Next 🔥🔥🔥
  - Python 🔥🔥🔥
  - Airbyte 🔥🔥🔥
  - Fivetran 🔥🔥🔥🔥🔥
@@ -18,4 +17,4 @@
  - Snowflake 🔥🔥🔥🔥🔥
 
 ## Contact
- - martin@imus.dk
+ - martin@starlightinsights.com
